@@ -1,25 +1,28 @@
 {
   "total_conversations": 0,
-  "total_messages": 12,
+  "total_messages": 14,
   "providers_count": 0,
   "buyers_count": 0,
   "unknown_count": 0,
-  "materials_consulted": {},
+  "materials_consulted": {
+    "PET": 1
+  },
   "intents_detected": {
-    "comprar": 2,
+    "comprar": 3,
     "calidad": 1,
     "vender": 2
   },
   "hot_leads": [],
   "conversion_funnel": {
-    "inquiry": 0,
+    "inquiry": 1,
     "negotiation": 0,
     "closed": 0
   },
   "response_times": [
     6.690554857254028,
     1.5271968841552734,
-    9.940691947937012
+    9.940691947937012,
+    3.67384672164917
   ],
-  "last_updated": "2026-01-10T21:15:03.702047"
+  "last_updated": "2026-01-10T21:43:04.634711"
 }

@@ -1,4 +1,4 @@
-# 🌿 Selva d'Or - Plataforma de Economía Circular
+# 🌿 Plataforma de Economía Circular
 
 > **Del caos informal al sistema inteligente**: Conectando recicladores con compradores industriales mediante WhatsApp + IA
 
@@ -262,7 +262,7 @@ Plataforma toma:     S/ 0.15/kg  (5% comisión)
 
 ```
 Usuario: Hola
-Bot: ¡Hola! 👋 Soy el asistente de Selva d'Or...
+Bot: ¡Hola! 👋 Soy el asistente de la plataforma...
 
 Usuario: ¿Qué materiales compran?
 Bot: 📦 CATÁLOGO DE MATERIALES...
@@ -681,10 +681,7 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detal
 
 ## 📞 Contacto
 
-**Selva d'Or Team**  
-📧 Email: contact@selvador.com  
-🌐 Web: www.selvador.com  
-📱 WhatsApp: +51 XXX XXX XXX
+📧 Email: jireh.cervantes@utec.edu.pe
 
 ---
 
